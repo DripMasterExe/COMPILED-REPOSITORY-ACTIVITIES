@@ -1,0 +1,26 @@
+WEBSITE LINK: https://sherreyafaitheighteen.my.canva.site/wear-and-tear
+
+The purpose of your app.
+A website for a non-profit organization working to minimize textile waste and educate audiences about sustainable practices. The website is designed to raise awareness, provide resources, and encourage responsible consumption, supporting the organization’s mission to create a more environmentally conscious community.
+
+
+Target users
+Fashion-conscious consumers
+Social media users influenced by trends
+Beginners interested in sustainable living
+
+
+Why you chose your layout and colors
+The layout is simple, professional, and elegant because it is easy to understand. The simpler and more elegant it is, the easier the audience can grasp the information. As a non-profit organization, the layout also reflects professionalism and elegance, showing credibility and trustworthiness.
+
+
+Challenges faced
+Due to canva's limitations I was not able to create the invisioned prototype. For example, Canva does not have a sticky mode for the nav bar.
+The adaptive website setting makes the design not show up as intended especially for various devices.
+Animations in canva are very minimal
+Drop Shadows on each assent weren't available
+
+
+Improvements you’d make with more time
+I will add more varied images
+I will make it in figma, as Canva was the more simpler route as it is similarly programmed to Powerpoint. figma on the otherhand lends more customization but tends to be more complicated due to it's versitilty and the options it serves
